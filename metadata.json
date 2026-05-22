@@ -1,0 +1,6 @@
+{
+  "name": "Sblocca-scelte",
+  "description": "Un assistente basato su intelligenza artificiale che aiuta a prendere decisioni complesse analizzando pro/contro, tabelle di confronto e SWOT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
